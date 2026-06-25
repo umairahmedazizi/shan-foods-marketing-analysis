@@ -16,6 +16,7 @@ the manager's own account and an analysis of the marketing mix.
 - Brand positioning: where Shan sits in the market, its target customers, and what it stands for.
 - The competitive environment it operates in.
 - The four Ps:
+  - Product: Shan and Shoop brands.
   - Price: premium pricing abroad, holding the line on prices during inflation, and a tiered
     pricing structure.
   - Place: how distributors are chosen, the role they play, and the push into international retail.
